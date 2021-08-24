@@ -1,10 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace TestDome
+namespace TestDome.Tests
 {
     //https://www.testdome.com/questions/38908
     //A TrainComposition is built by attaching and detaching wagons from the left and the right sides, efficiently with respect to time used.

@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace TestDome
+namespace TestDome.Tests
 {
     //https://www.testdome.com/questions/32673
     //Each account on a website has a set of access flags that represent a users access.

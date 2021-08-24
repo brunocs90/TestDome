@@ -1,15 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace TestDome
+namespace TestDome.Tests
 {
     //https://www.testdome.com/questions/35884
     //Implement function CountNumbers that accepts a sorted array of unique integers and, efficiently with respect to time used, counts the number of
     //array elements that are less than the parameter lessThan.
-    
+
     //For example, SortedSearch.CountNumbers(new int[] { 1, 3, 5, 7 }, 4) should return 2
     //because there are two array elements less than 4.
 
@@ -27,8 +23,6 @@ namespace TestDome
                 }
             }
             return LessthanCount;
-            //
-            //
         }
 
         public static int CountNumbers2(int[] sortedArray, int lessThan)
